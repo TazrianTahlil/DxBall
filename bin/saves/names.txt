@@ -1,0 +1,9 @@
+4
+Flower
+19800
+Tree
+9400
+Star
+5600
+River
+5600
